@@ -36,6 +36,7 @@ All the code is written in the STM32CubeMX/IDE using the HAL library.
 
 Since all the pins of the microcontroller are used for data/control functions, reprogramming of the board is possible only with the 'Connect Under Reset' option selected. To do this, you have to use a version of the ST Link programmer for 32-bit MCUs, connected according to the following schematic:
 
+![ST Link](https://github.com/DmitryMuravyev/SGPIO-SES-Indicator-Board/assets/152902525/857c663b-74bd-4aae-aeaa-936fa6639545)
  
 <h1>Links</h1>
 
