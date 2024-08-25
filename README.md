@@ -18,7 +18,7 @@ In addition, such panels can be stacked: they can be placed several levels above
 
 See the detailed review of the project on my YT-channel (English subtitles): https://youtu.be/YXgrQts7U3w
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YXgrQts7U3w/maxresdefault.jpg)](https://www.youtube.com/watch?v=YXgrQts7U3w)
+[![Click to see](https://img.youtube.com/vi/YXgrQts7U3w/maxresdefault.jpg)](https://www.youtube.com/watch?v=YXgrQts7U3w)
 
 <h1>Details</h1>
 
